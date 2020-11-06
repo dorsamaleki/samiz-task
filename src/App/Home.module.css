@@ -1,0 +1,46 @@
+.root {
+  direction: rtl;
+  background: url("/images/Component 10 – 2.svg") left top no-repeat,
+    url("/images/Component 25 – 2.svg") right top no-repeat;
+}
+.gridContainer {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.image {
+  text-align: left;
+  margin: 200px 200px;
+}
+.box {
+  margin: 300px 200px 0px 0px;
+  display: grid;
+  grid-template-rows: 70px 70px 70px;
+}
+.button1 {
+  text-align: center;
+  width: 220px;
+  box-sizing: border-box;
+  background-color: rgb(7, 72, 122);
+  margin: 10px;
+  padding: 10px;
+}
+.text {
+  font-size: 18px;
+  text-align: right;
+}
+.text1 {
+  text-decoration: none;
+  color: white;
+}
+.button2 {
+  box-sizing: border-box;
+  text-align: center;
+  width: 220px;
+  border: 2px solid rgb(7, 72, 122);
+  margin: 10px;
+  padding: 10px;
+}
+.text2 {
+  text-decoration: none;
+  color: #242424;
+}

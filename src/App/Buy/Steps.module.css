@@ -1,0 +1,24 @@
+.root {
+  background: url("/images/Path 1419.svg") left no-repeat;
+  height: 150px;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+}
+.shape {
+  display: inline-block;
+  color: black;
+  cursor: pointer;
+  font-size: 36px;
+  line-height: 1;
+  margin: 0 15px;
+  opacity: 0.4;
+  text-shadow: none;
+  transition: opacity 1s ease, text-shadow 1s ease;
+  will-change: opacity, text-shadow;
+  margin-top: 40px;
+}
+.text {
+  font-size: 10px;
+  margin-top: 10px;
+}
