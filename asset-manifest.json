@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dorsamaleki/samiz-task.git/static/css/main.6eea14c9.chunk.css",
+    "main.js": "/dorsamaleki/samiz-task.git/static/js/main.887cee9a.chunk.js",
+    "main.js.map": "/dorsamaleki/samiz-task.git/static/js/main.887cee9a.chunk.js.map",
+    "runtime-main.js": "/dorsamaleki/samiz-task.git/static/js/runtime-main.e0e5e0e1.js",
+    "runtime-main.js.map": "/dorsamaleki/samiz-task.git/static/js/runtime-main.e0e5e0e1.js.map",
+    "static/js/2.f6608941.chunk.js": "/dorsamaleki/samiz-task.git/static/js/2.f6608941.chunk.js",
+    "static/js/2.f6608941.chunk.js.map": "/dorsamaleki/samiz-task.git/static/js/2.f6608941.chunk.js.map",
+    "index.html": "/dorsamaleki/samiz-task.git/index.html",
+    "precache-manifest.88cbdca829b9b0a8297bb11e6e56f82c.js": "/dorsamaleki/samiz-task.git/precache-manifest.88cbdca829b9b0a8297bb11e6e56f82c.js",
+    "service-worker.js": "/dorsamaleki/samiz-task.git/service-worker.js",
+    "static/css/main.6eea14c9.chunk.css.map": "/dorsamaleki/samiz-task.git/static/css/main.6eea14c9.chunk.css.map",
+    "static/js/2.f6608941.chunk.js.LICENSE.txt": "/dorsamaleki/samiz-task.git/static/js/2.f6608941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e5e0e1.js",
+    "static/js/2.f6608941.chunk.js",
+    "static/css/main.6eea14c9.chunk.css",
+    "static/js/main.887cee9a.chunk.js"
+  ]
+}
